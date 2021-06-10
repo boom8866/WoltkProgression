@@ -232,3 +232,9 @@ UPDATE `creature_loot_template` SET `Item`=40752 WHERE `Entry`=31512 AND `Item`=
 
 -- Cyanigosa: 31506
 UPDATE `creature_loot_template` SET `Item`=40752 WHERE `Entry`=31506 AND `Item`=47241;
+
+-- Cyanigosa: 31360
+UPDATE `creature_loot_template` SET `Item`=40752 WHERE `Entry`=31360 AND `Item`=47241;
+
+-- Cyanigosa: 31360
+UPDATE `creature_loot_template` SET `Item`=40752 WHERE `Entry`=40752 AND `Item`=47241;
